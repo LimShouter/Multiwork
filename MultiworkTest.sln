@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumerableCollection", "EnumerableCollection\EnumerableCollection.csproj", "{4CADEBCB-238F-44B2-BDC5-52BFA6684AAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendPicWebApp", "SendPicWebApp\SendPicWebApp.csproj", "{39DD6820-301C-4904-966D-16D44BBAE645}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncFormUploader", "AsyncFormUploader\AsyncFormUploader.csproj", "{DA9B16CD-ED42-4516-BFB2-CA09770D599E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CADEBCB-238F-44B2-BDC5-52BFA6684AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CADEBCB-238F-44B2-BDC5-52BFA6684AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CADEBCB-238F-44B2-BDC5-52BFA6684AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CADEBCB-238F-44B2-BDC5-52BFA6684AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39DD6820-301C-4904-966D-16D44BBAE645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39DD6820-301C-4904-966D-16D44BBAE645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39DD6820-301C-4904-966D-16D44BBAE645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39DD6820-301C-4904-966D-16D44BBAE645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA9B16CD-ED42-4516-BFB2-CA09770D599E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9B16CD-ED42-4516-BFB2-CA09770D599E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9B16CD-ED42-4516-BFB2-CA09770D599E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9B16CD-ED42-4516-BFB2-CA09770D599E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

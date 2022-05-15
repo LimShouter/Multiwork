@@ -1,0 +1,73 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+                                                        
+<style>
+        #form-root {
+         display: block;
+        }
+        dt {
+         margin: 10px;
+        }
+        
+        #success{
+            background: lightgreen;
+            border: 1px solid green;
+            font-weight: bold;
+            display:none;
+        }
+        #fail-root{
+            background: lightsalmon;
+            border: 1px solid red;
+            color: red;
+            font-weight: bold;
+            display:none;
+        }
+        #loading {
+        background: #86b7fe;
+        border: 1px solid #0a53be;
+        font-weight: bold;
+        display: none;
+        }
+                        
+</style>
+<div class="text-center">
+
+    <div class="root">
+        <div id= 'loading'>
+            Загрузка...   
+        </div>
+        <div id = 'success'>
+            Готово
+        </div>
+        <div id='fail-root'>
+            
+        </div>
+        <div class="form" id = 'form-root'>
+            <dl>
+                <dt class="input-label"><label for="first-name">Имя</label> </dt>
+                <dt class="input-field"><input type="text" id="first-name" spellcheck="false"/></dt>
+
+                <dt class="input-label"><label for="last-name">Фамилия</label> </dt>
+                <dt class="input-field"><input type="text" id="last-name"/> </dt>
+
+                <dt class="input-label"><label for="birthdate">Дата рождения</label> </dt>
+                <dt class="input-field"><input type="date" id="birthdate"/> </dt>
+
+                <dt class="input-label"><label for="city">Город</label> </dt>
+                <dt class="input-field"><input type="text" id="city"/> </dt>
+
+                <dt class="input-label"><label for="tel">Телефон</label> </dt>
+                <dt class="input-field"><input type="tel" id="tel"/> </dt>
+
+                <dt class="input-label"><label for="email">Почта</label> </dt>
+                <dt class="input-field"><input type="email" id="email"/> </dt>
+
+                <dt class="input-submit"><button type="submit" onclick="UploadForm()">Submit</button> </dt>
+            </dl>
+        </div>
+    </div>
+    <script src="js/Upload.js"></script>
+</div>

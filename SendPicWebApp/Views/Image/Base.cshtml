@@ -1,0 +1,22 @@
+﻿@model SendPicWebApp.Views.Image.Base
+
+@{
+    Layout = "_Layout";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<div>
+    <form asp-controller="Image" asp-action="Enter" method="post" enctype="multipart/form-data">
+        <input type ="file" name = "rawmodel.File" accept="image/png, image/jpeg, image/gif"  />
+        <input type ="text" name = "rawmodel.Description"/>
+        <button type="submit">Upload</button>
+    </form>
+</div>
+</body>
+</html>

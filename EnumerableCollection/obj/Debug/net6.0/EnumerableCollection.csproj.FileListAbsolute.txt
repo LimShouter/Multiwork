@@ -1,0 +1,15 @@
+C:\Users\limsh\Desktop\Multiwork\EnumerableCollection\bin\Debug\net6.0\EnumerableCollection.exe
+C:\Users\limsh\Desktop\Multiwork\EnumerableCollection\bin\Debug\net6.0\EnumerableCollection.deps.json
+C:\Users\limsh\Desktop\Multiwork\EnumerableCollection\bin\Debug\net6.0\EnumerableCollection.runtimeconfig.json
+C:\Users\limsh\Desktop\Multiwork\EnumerableCollection\bin\Debug\net6.0\EnumerableCollection.dll
+C:\Users\limsh\Desktop\Multiwork\EnumerableCollection\bin\Debug\net6.0\EnumerableCollection.pdb
+C:\Users\limsh\Desktop\Multiwork\EnumerableCollection\obj\Debug\net6.0\EnumerableCollection.csproj.AssemblyReference.cache
+C:\Users\limsh\Desktop\Multiwork\EnumerableCollection\obj\Debug\net6.0\EnumerableCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limsh\Desktop\Multiwork\EnumerableCollection\obj\Debug\net6.0\EnumerableCollection.AssemblyInfoInputs.cache
+C:\Users\limsh\Desktop\Multiwork\EnumerableCollection\obj\Debug\net6.0\EnumerableCollection.AssemblyInfo.cs
+C:\Users\limsh\Desktop\Multiwork\EnumerableCollection\obj\Debug\net6.0\EnumerableCollection.csproj.CoreCompileInputs.cache
+C:\Users\limsh\Desktop\Multiwork\EnumerableCollection\obj\Debug\net6.0\EnumerableCollection.dll
+C:\Users\limsh\Desktop\Multiwork\EnumerableCollection\obj\Debug\net6.0\refint\EnumerableCollection.dll
+C:\Users\limsh\Desktop\Multiwork\EnumerableCollection\obj\Debug\net6.0\EnumerableCollection.pdb
+C:\Users\limsh\Desktop\Multiwork\EnumerableCollection\obj\Debug\net6.0\EnumerableCollection.genruntimeconfig.cache
+C:\Users\limsh\Desktop\Multiwork\EnumerableCollection\obj\Debug\net6.0\ref\EnumerableCollection.dll

@@ -1,0 +1,22 @@
+﻿@model SendPicWebApp.Models.ImageModel
+@{
+    Layout = "_Layout";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<div>
+    <dl>
+        <dt><img src="~/Images/1.jpg" width="128" height="128" asp-append-version="true"/></dt> 
+        <dt><p>@Model.Description</p></dt> 
+        <dt><a href="Base">Back</a></dt>
+        <dt><img src="~/Images/1.jpg" asp-append-version="true"/></dt> 
+    </dl>
+</div>
+</body>
+</html>
