@@ -13,4 +13,4 @@ foreach (var i in MyClass)
 	index++;
 	Console.WriteLine($"value {index} :" +  i.ToString());
 }
-Console.WriteLine("Hello, World!");
+//returns false,1.04,qae,1
